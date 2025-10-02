@@ -1,4 +1,4 @@
-cconst questions = [
+const questions = [
   {q: "Qual tipo de ossificação predomina na formação da maxila?",
    choices:["Endocondral","Intramembranosa","Mista com predomínio endocondral","Perióstica"],
    answer:1, explain:"A maxila se forma predominantemente por ossificação intramembranosa."},
@@ -21,7 +21,7 @@ cconst questions = [
 
   {q: "O espaço de Nance (leeway space) mandibular por hemiarco é em média:",
    choices:["0,5 mm","1,7 mm","3,4 mm","5,0 mm"],
-   answer:1, explain:"Mandíbula: cerca de 1,7 mm por hemiarco (3,4 mm no total)."},  
+   answer:1, explain:"Mandíbula: cerca de 1,7 mm por hemiarco (3,4 mm no total)."},
 
   {q: "Na dentição decídua a presença de grandes diastemas generalizados é característica de qual tipo de arco segundo Baume?",
    choices:["Tipo I","Tipo II","Tipo III","Não se relaciona com Baume"],
